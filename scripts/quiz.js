@@ -113,7 +113,6 @@ function displayQuestion(question) {
 }
 
 //Create a function to prompt user to answer the current question
-//website I used for while loop help, 'break' help, 
 function displayPrompt(question) {
     let transformedInput; // need to declare this variable to prevent a 'null' error
 
